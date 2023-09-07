@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeTutorial</string>
+    <string name="home">Домой</string>
+    <string name="favor">Избраное</string>
+    <string name="profile">Профиль</string>
+    <string name="no_comments">Комментарии отсутствуют</string>
+    <string name="Comments_caption">Комментарии</string>
+    <string name="no_internet_error">Произошла ошибка. Разлогин или возможно нет сети</string>
+    <string name="comments_no_internet">Произошла ошибка. Разлогин или возможно нет сети</string>
+
+    <integer name="com_vk_sdk_AppId">51691244</integer>
+</resources>
